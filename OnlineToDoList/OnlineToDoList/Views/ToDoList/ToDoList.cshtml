@@ -1,0 +1,76 @@
+﻿@section Scripts
+{
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxcore.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxdata.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxbuttons.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxscrollbar.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxmenu.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxcheckbox.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxlistbox.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxdropdownlist.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxgrid.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxgrid.sort.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxgrid.pager.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxgrid.selection.js"></script>
+    <script type="text/javascript" src="~/node_modules/jqwidgets-scripts/jqwidgets/jqxgrid.edit.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            GetAndBindDataForGrid();           
+            
+        });
+
+        function GetAndBindDataForGrid() {
+            $.get("GetToDoList")
+                .done(function (response, status.jqxhr) {
+                    BindDataForGrid(response);
+                })
+                .fail(function (jqxhr, status, error) {
+
+                })
+        }
+
+        function BindDataForGrid(d) {
+            var source =
+            {
+                localdata: d,
+                datatype: "local",
+                datafields:
+                    [
+                        { name: 'Id', type: 'number' },
+                        { name: 'Title', type: 'string' },
+                        { name: 'Description', type: 'string' },
+                        { name: 'CreatedDate', type: 'string' },
+                        { name: 'ModifiedDate', type: 'number' }                        
+                    ]
+            };
+            var dataAdapter = new $.jqx.dataAdapter(source);
+            // initialize jqxGrid
+            $("#grid").jqxGrid(
+                {
+                    width: '100%',
+                    source: dataAdapter,
+                    showtoolbar: true, 
+                    editable: true,
+                    sortable:true,
+                    columns: [
+                        { text: 'Title', datafield: 'Title', width: 200 },                       
+                        { text: 'Description', datafield: 'Description', width: 180 },
+                        { text: 'ModifiedDate', datafield: 'ModifiedDate', width: 80 },                       
+                        { text: 'Id', datafield: 'Id', cellsalign: 'right', hidden: true }
+                    ]
+                });
+        }
+    </script>
+    
+}
+
+<head>
+    <link rel="stylesheet" href="~/node_modules/jqwidgets-scripts/jqwidgets/styles/jqx.base.css" />
+</head>
+
+<div>
+    <div id="grid">
+    </div>
+</div>

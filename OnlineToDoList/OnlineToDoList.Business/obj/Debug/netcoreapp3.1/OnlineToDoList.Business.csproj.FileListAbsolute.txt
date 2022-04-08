@@ -1,0 +1,17 @@
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.Business.deps.json
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.Business.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.Business.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.DTO.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\bin\Debug\netcoreapp3.1\OnlineToDoList.DTO.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.csproj.AssemblyReference.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.AssemblyInfoInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.AssemblyInfo.cs
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.csproj.CopyComplete
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.Business\obj\Debug\netcoreapp3.1\OnlineToDoList.Business.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3M59vrgUsfX17m/LWvbSDO3pFYKlUormlke1u7+HKbyBrRX75Zl2VWb4cvPkkNkuYiDrS15bv7qU+543ETNYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoList\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinayak_2\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

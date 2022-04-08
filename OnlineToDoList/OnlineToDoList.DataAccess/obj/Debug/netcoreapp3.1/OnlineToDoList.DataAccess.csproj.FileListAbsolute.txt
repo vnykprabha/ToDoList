@@ -1,0 +1,10 @@
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.deps.json
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.AssemblyInfo.cs
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoList\OnlineToDoList.DataAccess\obj\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.pdb
