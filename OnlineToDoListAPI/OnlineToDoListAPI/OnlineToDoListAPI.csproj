@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.23" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineToDoList.BusinessService\OnlineToDoList.BusinessService.csproj" />
+    <ProjectReference Include="..\OnlineToDoList.DataAccess\OnlineToDoList.DataAccess.csproj" />
+    <ProjectReference Include="..\OnlineToDoList.Entities\OnlineToDoList.Entities.csproj" />
+    <ProjectReference Include="..\OnlineToDoList.Repository\OnlineToDoList.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>

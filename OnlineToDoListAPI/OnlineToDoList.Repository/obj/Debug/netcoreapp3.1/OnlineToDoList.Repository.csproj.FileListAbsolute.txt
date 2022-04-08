@@ -1,0 +1,17 @@
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Repository.deps.json
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Repository.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Repository.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.csproj.AssemblyReference.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.AssemblyInfoInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.AssemblyInfo.cs
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Entities.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.DataAccess.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Entities.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\obj\Debug\netcoreapp3.1\OnlineToDoList.Repository.csproj.CopyComplete
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Repository\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.pdb

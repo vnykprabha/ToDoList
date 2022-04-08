@@ -1,0 +1,532 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.UnitTest\\OnlineToDoList.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj",
+        "projectName": "OnlineToDoList.BusinessService",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj",
+        "projectName": "OnlineToDoList.Common",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj",
+        "projectName": "OnlineToDoList.DataAccess",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj",
+        "projectName": "OnlineToDoList.Entities",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj",
+        "projectName": "OnlineToDoList.Repository",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.UnitTest\\OnlineToDoList.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.UnitTest\\OnlineToDoList.UnitTest.csproj",
+        "projectName": "OnlineToDoList.UnitTest",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.UnitTest\\OnlineToDoList.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Common\\OnlineToDoList.Common.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoListAPI\\OnlineToDoListAPI.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoListAPI\\OnlineToDoListAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoListAPI\\OnlineToDoListAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoListAPI\\OnlineToDoListAPI.csproj",
+        "projectName": "OnlineToDoListAPI",
+        "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoListAPI\\OnlineToDoListAPI.csproj",
+        "packagesPath": "C:\\Users\\Vinayak_2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoListAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinayak_2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.BusinessService\\OnlineToDoList.BusinessService.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.DataAccess\\OnlineToDoList.DataAccess.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Entities\\OnlineToDoList.Entities.csproj"
+              },
+              "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj": {
+                "projectPath": "C:\\Users\\Vinayak_2\\source\\repos\\OnlineToDoListAPI\\OnlineToDoList.Repository\\OnlineToDoList.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

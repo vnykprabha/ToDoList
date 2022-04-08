@@ -1,0 +1,9 @@
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.deps.json
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\bin\Debug\netcoreapp3.1\OnlineToDoList.Common.pdb
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\obj\Debug\netcoreapp3.1\OnlineToDoList.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\obj\Debug\netcoreapp3.1\OnlineToDoList.Common.AssemblyInfoInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\obj\Debug\netcoreapp3.1\OnlineToDoList.Common.AssemblyInfo.cs
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\obj\Debug\netcoreapp3.1\OnlineToDoList.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\obj\Debug\netcoreapp3.1\OnlineToDoList.Common.dll
+C:\Users\Vinayak_2\source\repos\OnlineToDoListAPI\OnlineToDoList.Common\obj\Debug\netcoreapp3.1\OnlineToDoList.Common.pdb
